@@ -84,12 +84,12 @@ This type of analysis is core to SaaS, fintech, and subscription-based businesse
    | Medium ($31-$60) | 25.97% |
    | Low ($0-$30) | 9.84% |
 ### Key Business Insights
-1. **High churn rate** — At 26.58%, the company is losing more than 1 in 4 customers, which is above the telecom industry average
-2. **Month-to-month contracts are the biggest risk** — 42.71% churn rate vs only 2.85% for two-year contracts
-3. **Fiber Optic customers are unhappy** — Despite being the premium service, fiber optic has the highest churn at 41.89%, suggesting a value-for-money problem
-4. **Electronic check customers churn the most** — Manual payment methods correlate strongly with higher churn
-5. **Senior citizens need attention** — Churning at almost double the rate of non-seniors (41.68% vs 23.65%)
-6. **First 12 months are critical** — Nearly 1 in 2 new customers leave within the first year
+1. **High churn rate** - At 26.58%, the company is losing more than 1 in 4 customers, which is above the telecom industry average
+2. **Month-to-month contracts are the biggest risk** - 42.71% churn rate vs only 2.85% for two-year contracts
+3. **Fiber Optic customers are unhappy** - Despite being the premium service, fiber optic has the highest churn at 41.89%, suggesting a value-for-money problem
+4. **Electronic check customers churn the most** - Manual payment methods correlate strongly with higher churn
+5. **Senior citizens need attention** - Churning at almost double the rate of non-seniors (41.68% vs 23.65%)
+6. **First 12 months are critical** - Nearly 1 in 2 new customers leave within the first year
   
 ## Business Recommendations
 1. Offer incentives to convert month-to-month customers to longer contracts
