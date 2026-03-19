@@ -100,4 +100,4 @@ This type of analysis is core to SaaS, fintech, and subscription-based businesse
 6. Launch loyalty programs to reward long-term customers
 
 ## Dashboard Preview
-![churn alaysis dashboard](Dashboard_screenshot.png)
+![churn analysis dashboard](Dashoboard_screenshot.png)
